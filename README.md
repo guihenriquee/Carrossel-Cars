@@ -15,11 +15,3 @@ Esta landing page apresenta um carrossel interativo e visualmente atraente, exib
 * **Carrossel Animado:** Permite navegar entre os carros de forma suave e intuitiva.
 * **Informações Detalhadas:** Exibe informações relevantes sobre cada carro, como modelo, ano e descrição.
 * **Visualmente Atraente:** Utiliza imagens de alta qualidade e combinações de cores harmoniosas para criar um visual impactante.
-
-
-### Estrutura de Arquivos
-
-* **index.html:** Contém o código HTML da página.
-* **style.css:** Arquivo CSS com todas as regras de estilo.
-* **script.js:** Arquivo JavaScript responsável pela lógica do carrossel.
-* **img:** Pasta contendo as imagens dos carros.
